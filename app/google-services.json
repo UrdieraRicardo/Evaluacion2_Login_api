@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486763342684",
+    "project_id": "evaluacion2loginapi",
+    "storage_bucket": "evaluacion2loginapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486763342684:android:e8a291a544c2f3e699ef99",
+        "android_client_info": {
+          "package_name": "com.urdiera12.evaluacion2_login_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486763342684-1fqb2jlrcuflts2ibb1ku2ugucomhb3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urdiera12.evaluacion2_login_api",
+            "certificate_hash": "fb3783f83ec3050ab621bb2b55a61e1c36a23a10"
+          }
+        },
+        {
+          "client_id": "486763342684-gmtjnu34semk7jpl1tkik490up6tfeob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOzVpX9JbLC_UhnUVXMbOn-6SHkgvJboE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486763342684-gmtjnu34semk7jpl1tkik490up6tfeob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
